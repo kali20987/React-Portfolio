@@ -26,7 +26,7 @@ function Card() {
       <div style={styles.heading}>FilmFetch</div>
       <div style={styles.content}>
         This is a movie recommendation website that I and three other developers made for our Project One in our Bootcamp.
-        <img width="1300" height="700" alt="Screenshot 2023-06-04 at 7 17 35 AM" 
+        <img width="1200" height="700" alt="Screenshot 2023-06-04 at 7 17 35 AM" 
         src="https://github.com/kali20987/React-Portfolio/assets/128011155/3c3caabf-c54e-470a-aee9-5a4239f7f34a"></img>
       </div>
     </div>

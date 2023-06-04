@@ -1,0 +1,19 @@
+.footer {
+    background: orchid;
+    height: 100px;
+  }
+  
+  .footer h3 {
+    margin: 0;
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+  }
+  .footer li {
+    margin: 0;
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+    font-size: 1rem;
+  }

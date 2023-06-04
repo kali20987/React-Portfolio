@@ -26,7 +26,8 @@ function Card2() {
         <div style={styles.heading}>Workout Like a Boss</div>
         <div style={styles.content}>
           This is a workout recommendation app that I add four other devlopers worked on for our Second Project in our Coding Bootcamp.
-          
+          <img width="1200" alt="Screenshot 2023-06-04 at 7 37 24 AM" 
+          src="https://github.com/kali20987/Text-Editor/assets/128011155/982fa59f-9f83-49a8-aaa7-af320ff8f463"></img>
         </div>
       </div>
     )
