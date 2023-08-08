@@ -41,7 +41,7 @@ function Projects() {
 
           <div id="workoutimage" class="aboutBody column" text-align= "center">
             <a href="https://github.com/kali20987/Workout-Like-A-Boss" text-align= "center">
-              <img src={weight} class="img-fluid rounded-start" alt="weight icon" height= "55%" width="55%" text-align= "center"/>
+              <img src={weight} class="img-fluid rounded-start" alt="weight icon" height= "55%" width="65%" text-align= "center"/>
             </a>
           </div>
         </div>
@@ -49,17 +49,22 @@ function Projects() {
 
       <div class="card col-10 mx-auto">
         <div class="row justify-content-md-center">
-          <div id="jobimage" class="col-8 aboutBody">
+
+          <div id="jobimage" class="column aboutBody">
             <a href="https://github.com/kali20987/JobCanvas">
-              <img src={job} class="img-fluid rounded-start" alt="job icon" />
+              <img src={job} class="img-fluid rounded-start" alt="job icon" height= "55%" width="55%" text-align= "center" />
             </a>
+            </div>
+
+            <div class="column">
             <div id="jobBox">
               <h3>JobCanvas</h3>
               <p> A job-searching website I and four other developers created which allows users to search and post jobs.
                 It uses HTML, CSS, Bootstrap, JavaScript, MERN, and the Adzuna API.
               </p>
             </div>
-          </div>
+            </div>
+          
         </div>
       </div>
 

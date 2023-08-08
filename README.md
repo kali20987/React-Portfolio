@@ -8,5 +8,7 @@ This is my Portfolio using React. It is here to share my work and projects with 
 
 ## Usage
 Deployed [Link](https://kali20987.github.io/React-Portfolio/) 
+
+## Installation
 * If deployed link is not working, clone the repo and in the root menu run ``npm i``
-* Then run ``npm run start`` and view the project in your local browser.
+* Then run ``npm run start`` and view the project on your local browser.
