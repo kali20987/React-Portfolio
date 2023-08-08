@@ -1,0 +1,29 @@
+#projectsHeader {
+    text-align: center; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(61, 16, 61);
+ }
+
+ #filmBody {
+    background: rgb(234, 203, 231);
+    height: 100px;
+    font-size: 150%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 50px;
+  }
+
+  #workoutbox {
+   background: rgb(234, 203, 231);
+   height: 100px;
+   font-size: 150%;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   padding: 50px;
+ }
+
+ #jobBox {
+   background: rgb(234, 203, 231);
+   height: 100px;
+   font-size: 150%;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   padding: 50px;
+ }

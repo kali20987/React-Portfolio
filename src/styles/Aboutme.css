@@ -1,0 +1,16 @@
+#aboutmeHeader {
+    text-align: center; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(61, 16, 61);
+ }
+  
+  #aboutmeBodyText {
+    background: rgb(197, 168, 195);
+    height: 80px;
+    font-size: 150%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 50px;
+  }
+  
+
+  

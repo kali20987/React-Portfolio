@@ -1,17 +1,20 @@
 import React from 'react';
+import './styles/Aboutme.css';
+import './styles/Navbar.css';
+import './styles/Projects.css';
+import Aboutme from './components/Aboutme';
 import Navbar from './components/Navbar';
 import Header from './components/Header';
-import Card from './components/Card';
-import Card2 from './components/Card2';
+import Projects from './components/Projects';
 import Footer from './components/Footer'
 
 function App() {
   return (
     <div>
-      <Header />
       <Navbar />
-      <Card />
-      <Card2 />
+      <Header />
+      <Aboutme />
+      <Projects />
       <Footer />
     </div>
   );
