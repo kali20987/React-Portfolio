@@ -1,11 +1,12 @@
 .footer {
   background-color: rgb(175, 127, 175);
-    height: 140px;
+    /* height: 140px; */
   }
   
   .footer h3 {
     margin: 0;
-    padding-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     text-align: center;
     color: white;
     font-size: 40px;
@@ -15,20 +16,37 @@
   #github {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
-    margin-left: 125px;
+    /* margin-left: 125px; */
   }
 
   #linkedin {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
-    margin-left: 500px;
+    /* margin-left: 500px; */
   }
 
   #resume {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
-    margin-left: 900px;
+    /* margin-left: 900px; */
   }
+
+  .footercolumn {
+    width: 30%;
+    float: right;
+   }
+  
+   .footerrow {
+    content: "";
+    display: table;
+    clear: both;
+    background-color: rgb(175, 127, 175);
+    color: white;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+   }
   /* #list {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     list-style-type: none;
